@@ -1,0 +1,3 @@
+# JmsWebsocket
+Jms和websocket之间相互通信
+基于Netty3实现jms发送信息中包含用户信息,当收到消息时发给只指定的userid
